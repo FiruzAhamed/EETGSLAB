@@ -66,15 +66,15 @@ permalink: /
     </div>
     <div class="grid">
       <div class="card">
-        <h3>12+ Regional Studies</h3>
+        <h3>1+ Regional Studies</h3>
         <p>Covering Southeast Asia, Sub-Saharan Africa, and Latin America.</p>
       </div>
       <div class="card">
-        <h3>25+ Active Partners</h3>
+        <h3>1+ Active Partners</h3>
         <p>Utilities, ministries, NGOs, and international research consortia.</p>
       </div>
       <div class="card">
-        <h3>40+ Publications</h3>
+        <h3>1+ Publications</h3>
         <p>Peer-reviewed articles, policy briefs, and open datasets.</p>
       </div>
     </div>
